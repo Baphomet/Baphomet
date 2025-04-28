@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Felipe
 - 👀 I’m interested in C#, GO, MySQL, Network
-- 🌱 I’m currently learning C#, React
+- 🌱 I’m currently learning C#, Angular
 - 📫 How to reach me : fgrochovski@gmail.com
